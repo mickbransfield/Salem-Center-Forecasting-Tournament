@@ -2,7 +2,7 @@
 
 ### Data and python scripts for analyzing prediction market data in the 2022-2023 CPSI/Salem Forecasting Tournament.
 
-Simple python scripts to help analyze the tournament trading data by created dataframes of:
+Simple python scripts to help analyze the tournament trading data by creating dataframes of:
 * [Tournament bets and markets](https://github.com/mickbransfield/Salem-Center-Forecasting-Tournament/blob/main/Salem_Center_Bets_Contracts.py)
 * [Tournament trade times](https://github.com/mickbransfield/Salem-Center-Forecasting-Tournament/blob/main/Salem_Center_Trade_Times.py)
 * [Profit by all traders](https://github.com/mickbransfield/Salem-Center-Forecasting-Tournament/blob/main/Salem_Center_Profit_by_Trader.py) 
